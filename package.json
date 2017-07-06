@@ -1,0 +1,13 @@
+{
+  "name": "student-grades-tracker",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "officegen": "^0.4.5",
+    "xlsx": "^0.10.6"
+  }
+}
